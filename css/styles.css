@@ -297,7 +297,6 @@ text-align: center;
 .case-list
 {
     display: flex;
-    justify-content: space-between;
     align-items: center;
     
 }
